@@ -1,0 +1,12 @@
+# macOS
+.DS_Store
+
+# VS-Code-Einstellungen
+.vscode/
+
+# Lokale Konfiguration und Zugangsdaten
+.env
+config.local.php
+
+# PHP-Abhängigkeiten
+/vendor/
