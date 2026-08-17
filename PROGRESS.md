@@ -1,44 +1,47 @@
-# Village Quest Learning Progress
+# Village Quest - Progress
 
-Current Chapter:
-Chapter 1 – The Beginning
+## Current Chapter
 
-Current Quest:
-Quest 3 – Build the Village Page
+Chapter 0 - Preparing the Adventure
 
-Status:
+## Current Quest
+
+Project Setup
+
+## Status
+
 IN PROGRESS
 
-Completed:
+## Completed
 
-[x] Create Git repository
-[x] Create README.md
-[x] Create index.php
-[ ] Add semantic HTML structure
+* Created the project repository
+* Created `AGENTS.md`
+* Created `ROADMAP.md`
+* Created the `docs` directory
+* Added the initial project documentation files
 
-Concepts learned:
+## Currently Working On
 
-- Git repository
-- HTML document structure
-- headings
-- paragraphs
+Preparing the project structure and documentation so Codex can start assigning development mini-quests.
 
-Needs Practice:
+## Concepts Practiced
 
-- semantic HTML
-- section vs div
+* project structure
+* Markdown documentation
+* Git repository basics
+* project planning
+* separation of project instructions and project documentation
 
-Last Review:
+## Needs More Practice
 
-Codex reviewed index.php.
+* using Codex with repository instructions
+* maintaining project state
+* working with the mini-quest workflow
 
-Good:
-- correct document structure
-- readable naming
+## Next Milestone
 
-Needs improvement:
-- missing lang attribute
-- unnecessary div around heading
+Complete Chapter 0 and prepare the project for the first development quest.
 
-Next unlock:
-Quest 4
+## Next Quest
+
+Not unlocked yet.

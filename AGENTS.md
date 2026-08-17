@@ -96,10 +96,10 @@ Update PROGRESS.md only after meaningful reviewed progress.
 Use:
 
 - ROADMAP.md for the development journey
+- PROGRESS.md for the current state
 - docs/GAME_DESIGN.md for game mechanics
 - docs/ARCHITECTURE.md for technical structure
 - docs/LEARNING_GOALS.md for learning objectives
-- docs/PROGRESS.md for the current state
 
 Avoid duplicating information between files.
 
